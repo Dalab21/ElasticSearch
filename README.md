@@ -1,4 +1,4 @@
-# WORKSHOP: ElasticSearch
+# ElasticSearch
 
 L'objectif de ce workshop est de prendre en main la stack Elastic (Elasticsearch & Kibana) en mode local avec des requêtes simples et d'autres d'agrégation plus complexes.
 
